@@ -1,6 +1,6 @@
 {
   "name": "kap-transfer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Share on Transfer",
   "main": "index.js",
   "scripts": {
