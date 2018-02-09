@@ -1,4 +1,5 @@
-# kap-transfer [![Build Status](https://travis-ci.org/lucaperret/kap-transfer.svg?branch=master)](https://travis-ci.org/lucaperret/kap-transfer) [![npm](https://img.shields.io/npm/dt/kap-transfer.svg)](https://www.npmjs.com/package/kap-transfer)
+# kap-transfer [![Build Status](https://travis-ci.org/lucaperret/kap-transfer.svg?branch=master)](https://travis-ci.org/lucaperret/kap-transfer) [![npm](https://img.shields.io/npm/dt/kap-transfer.svg)](https://www.npmjs.com/package/kap-transfer) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
+
 
 ![transfer logo](transfer.png?raw=true "transfer.sh")
 
